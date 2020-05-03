@@ -17,10 +17,11 @@
     "gatsby": "^2.16.1",
     "gatsby-plugin-postcss": "^2.1.13",
     "gatsby-plugin-react-helmet": "^3.1.13",
-    "gatsby-source-stripe": "^3.0.4",
+    "gatsby-source-stripe": "^3.0.7",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
+    "slugify": "^1.4.0",
     "tailwindcss": "^1.1.2"
   },
   "devDependencies": {

@@ -7,8 +7,7 @@ export default props => {
 		<Fragment>
 			<SEO />
 			<Nav />
-			<main>{props.children}</main>
-			{console.log(process.env.HOLA)}
+			<main className="max-w-4xl mx-auto">{props.children}</main>
 		</Fragment>
 	)
 }
